@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hey there! I'm Sai Hanuma Reddy Yarram
 
-<!--
-**saiyarram27/saiyarram27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI & ML Engineer | BTech CSE (AI & ML) @ RVR & JC College of Engineering  
+🔍 Exploring AI, Automation, and Autonomous Agents  
+📈 Passionate about leveraging AI for real-world impact  
+💡 Always building, learning, and pushing boundaries  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 My Learning Journey  
+✔ Built my first **basic chatbot** from scratch using Python & OpenAI API  
+✔ Learning **LangChain** for AI-driven automation  
+✔ Exploring **GitHub** for open-source collaboration  
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saihanumareddy/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/saiyarram27)  
+
+Let's **collaborate, learn, and build** the future together! 🚀
